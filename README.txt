@@ -1,4 +1,4 @@
-Small program to take disparity photos with the ZED Camera
+Small program to take disparity photos with the ZED Camera. This code also involves the CV algorithm utilized to detect objects within a set distance from the camera.
 
 To build/run
 mkdir bin/
